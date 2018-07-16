@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Procedure](#procedure)
 
 ## Instructions
 
@@ -18,3 +19,8 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Procedure
+
+This repository contains a matching game which has 16 cards with emojis.
+The game has a timer and can note down the amount of moves made with the score.
